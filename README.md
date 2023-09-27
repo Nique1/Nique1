@@ -1,16 +1,13 @@
-### Hi there 👋
+### Dominika Sarata
 
-<!--
-**Nique1/Nique1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[1]: https://www.linkedin.com/in/dominika-sarata/
 
-Here are some ideas to get you started:
+###Hello World! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Dominika Sarata, currently studying Applied Computer Science in Cracow - Poland, passionate about software development.
+Currently looking for an internship / part-time job in Java. Feel free to reach me [here!](https://www.linkedin.com/in/dominika-sarata/)
+
+- 🌱 I’m currently learning Java, Spring framework, Hibernate and Docker
+- 🌱 I’m curious about Cloud computing 
+- 🌱 Passionate about self-development, swimming and hiking 
+
