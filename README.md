@@ -1,4 +1,4 @@
-### Dominika Sarata
+### [Dominika Sarata]
 
 #### Hello World! 
 
@@ -6,7 +6,7 @@ I'm Dominika Sarata, currently studying Applied Computer Science in Cracow - Pol
 I'm currently looking for an internship / part-time job in Java. Feel free to reach me [here!](https://www.linkedin.com/in/dominika-sarata/)
 
 
-### Skils & Technologies
+#### Skils & Technologies
 * Java
 * PostgreSQL, MSSQL, MongoDB
 * HTML5, CSS, Java Script - basics
@@ -16,7 +16,7 @@ I'm currently looking for an internship / part-time job in Java. Feel free to re
 * Postman
 * Jira, Confluence
 
-### More about me
+#### More about me
 - 🌱 I’m currently learning Java, Spring framework, Unit testing, Hibernate and Docker
 - 🌱 I’m curious about Cloud computing 
 - 🌱 Passionate about self-development, swimming and hiking 
