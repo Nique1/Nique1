@@ -1,4 +1,4 @@
-[### Dominika Sarata](https://github.com/Nique1/Nique1/edit/main/README.md)
+### [Dominika Sarata](https://github.com/Nique1/Nique1/blob/main/README.md)
 
 #### Hello World! 
 
