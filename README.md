@@ -8,7 +8,7 @@ I'm currently looking for an internship / part-time job in Java. Feel free to re
 #### [Skils & Technologies](https://github.com/Nique1/Nique1/blob/main/README.md)
 * Java
 * Spring Boot
-* PostgreSQL, MS SQL Server, MongoDB
+* PostgreSQL, MS SQL Server, mySQL
 * HTML5, CSS, Java Script - basics
 * Git
 * Bash scripting
